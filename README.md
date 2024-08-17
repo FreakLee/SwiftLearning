@@ -6,3 +6,5 @@
 [Swift流式接口](https://github.com/FreakLee/SwiftLearning/blob/main/Notes/Fluent%20Interface.md)
 
 [Copy on Write](https://github.com/FreakLee/SwiftLearning/blob/main/Notes/Copy%20on%20write.md)
+
+[Swift中String内存布局及底层实现](https://github.com/FreakLee/SwiftLearning/blob/main/Notes/Deeply%20Understand%20String.md)
